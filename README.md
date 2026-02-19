@@ -35,9 +35,9 @@ GitHub
 # Project Structure
 Flavour-Fusion/
 │
-├── app.py                # Main Streamlit application
-├── requirements.txt      # Required libraries
-├── README.md             # Project documentation
+├── app.py               
+├── requirements.txt     
+├── README.md            
 
 
 # Installation & Setup
